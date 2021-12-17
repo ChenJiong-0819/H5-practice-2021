@@ -3,6 +3,8 @@
 
 使用浏览器直接打开index.html即可
 
+链接展示：https://chenjiong-0819.github.io/H5-practice-2021/
+
 ## 2. 演示截图
   ### 1.第一屏
 ![第一屏](./images/1.jpg)
